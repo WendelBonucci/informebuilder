@@ -7,11 +7,11 @@
 }
 
 @theme inline {
-  --colorbackground: #f6f6f6;
-  --colorblack: #020304;
-  --colorwhite: #ffffff;
-  --colordarlcyan: #1693a5;
-  --colorcyan: #45b5c4;
+  --color-background: #f6f6f6;
+  --color-black: #020304;
+  --color-white: #ffffff;
+  --color-darlcyan: #1693a5;
+  --color-cyan: #45b5c4;
 }
 
 body {
